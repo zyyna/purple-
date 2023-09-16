@@ -1,8 +1,13 @@
 # purple-
 # purple 
 **hello**
-#purple*
+*purple*
 > purple 
-!. first
+1. first
 2. seconf
-3. thurd
+3. third
+-first
+-second
+-third
+`code`
+[Education of Chile](https://www.britannica.com/place/Chile/Education)
